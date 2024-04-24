@@ -32,4 +32,15 @@ Cette application a pour but d'afficher la météo d'une ville sur une interface
   <li>Dans l'élément weather-container, cliquez sur rgba de background-color pour modifier la couleur à votre guise à l'aide de la palette de couleur ou des données entre parenthèses</li>
 </ol>
 
+<br>
+<hr>
+<h2>API</h2>
+Pour cette application j'ai choisi une API libre d'accès sur le site OpenWeather, avec une requête intégrée par nom de ville.
+
+<br>
+<hr>
+<hr>
+
+
+
 
