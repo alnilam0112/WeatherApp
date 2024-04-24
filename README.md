@@ -5,6 +5,7 @@ Cette application a pour but d'afficher la météo d'une ville sur une interface
 <li>HTML</li> <li>CSS</li> <li>JS</li> <li>JSON</li>
 
 <hr>
+<hr>
 <h2>Infos à l'attention de la compagnie de transport</h2>
 <p>Vous pouvez changer la ville au besoin en suivant le fonctionnement suivant : </p>
 <ol>
@@ -34,8 +35,15 @@ Cette application a pour but d'afficher la météo d'une ville sur une interface
 
 <br>
 <hr>
+<hr>
 <h2>API</h2>
 Pour cette application j'ai choisi une API libre d'accès sur le site OpenWeather, avec une requête intégrée par nom de ville.
+
+<br>
+<hr>
+<hr>
+
+La MAJ automatique des données météorologique est faite par intervalle de une heure.
 
 <br>
 <hr>
