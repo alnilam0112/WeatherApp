@@ -42,6 +42,7 @@ Pour cette application j'ai choisi une API libre d'accès sur le site OpenWeathe
 <br>
 <hr>
 <hr>
+<br>
 
 La MAJ automatique des données météorologique est faite par intervalle de une heure.
 
