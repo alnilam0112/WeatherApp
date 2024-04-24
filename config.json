@@ -1,0 +1,6 @@
+{
+    "apiKey": "a67b6334617e4039fb95396ca1ad2a15", 
+    "defaultCity": "Lacanau", 
+    "units": "metric", 
+    "apiBaseUrl": "https://api.openweathermap.org/data/2.5/weather" 
+}
