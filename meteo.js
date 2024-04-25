@@ -8,7 +8,7 @@ fetch("config.json")
         const units = config.units;
         const apiBaseUrl = config.apiBaseUrl;
 
-        // éléments DOM
+        // éléments DOM 
         const cityElement = document.getElementById('cityy');
         const temperatureElement = document.getElementById('temperature');
         const feellikeElement = document.getElementById('feellike');
